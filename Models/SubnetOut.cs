@@ -13,6 +13,7 @@
 		public string FFIP { get; set; }
 		public string FFIPBin { get; set; }
 		public string LFIP { get; set; }
+		public string LFIPBin { get; set; }
 		public Free FreeIP { get; set; }
 		public Free FreeSub { get; set; }
 	}

@@ -1,6 +1,6 @@
 ﻿namespace SubnetApi.Models
 {
-	public class SupernetIn
+	public class SupernetInput
 	{
 		public int OCT1 { get; set; }
 		public int OCT2 { get; set; }
